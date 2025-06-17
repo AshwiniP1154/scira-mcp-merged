@@ -17,6 +17,14 @@ This is a unified and enhanced version of the MCP (Multi-Chat Platform) agent in
 - Middleware-based authentication
 - Copilot-aided merging and conflict resolution
 
+## Running the Project
+
+To start the app locally:
+
+```bash
+pnpm install
+pnpm dev
+
 
 
 
